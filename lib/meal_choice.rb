@@ -7,6 +7,10 @@ def meal_choice(vegetables, meat )
 end
 
 def nutritious_meal(protein, vegetables)
+nutritious_meal = true
 nutitious_meal = "what a nutritious meal!n\A plate of #{protein + vegetables = veg1,veg2} so that you can also see what you've ordered."
 puts nutitious_meal
 end
+
+def meal_track (protein,vegetables)
+  meal_track = "A plate of #{protein} with #{vegetables = veg1,veg2}."
