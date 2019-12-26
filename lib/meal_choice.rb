@@ -14,3 +14,6 @@ end
 
 def meal_track (protein,vegetables)
   meal_track = "A plate of #{protein} with #{vegetables = veg1,veg2}."
+  puts meal_track
+end 
+end 
